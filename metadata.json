@@ -1,0 +1,8 @@
+{
+  "name": "Focus Logger",
+  "description": "A productivity and deep work session tracker with real-time state logging, goal carryover, distraction counter, timeline breakdown, day-by-day analysis, and markdown export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
